@@ -1,0 +1,11 @@
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\bin\Debug\Exe1_EscolaDeNatacao.exe.config
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\bin\Debug\Exe1_EscolaDeNatacao.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\bin\Debug\Exe1_EscolaDeNatacao.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.csprojAssemblyReference.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.frmEscolaDeNatacaoV1.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.Properties.Resources.resources
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.csproj.GenerateResource.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.csproj.CoreCompileInputs.cache
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.exe
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.pdb
+C:\Users\luisv\Documents\EstudosCSharp\Aula2_EstruturaCondicional\Exe1_EscolaDeNatacao\obj\Debug\Exe1_EscolaDeNatacao.frmEscolaNatacaoV2.resources
